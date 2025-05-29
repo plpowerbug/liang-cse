@@ -6,7 +6,7 @@ This repository contains all informations about me.
 
 <div style = "height: 100%">
 <img width="35%" align="right" alt="Github" src="assets/geek.gif" />
-I am a master's student I am proficient in web development using JS, PHP, CSS,Typescript, and HTML.
+
 </div>
 
 
